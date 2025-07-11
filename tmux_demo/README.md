@@ -17,9 +17,9 @@ uv venv
 source venv/bin/activate
 ```
 
-### 3. 安裝必要套件
+### 3. 安裝此專案所需套件
 ```bash
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ### 4. 運行範例
